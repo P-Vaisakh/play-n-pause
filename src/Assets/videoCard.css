@@ -1,0 +1,15 @@
+.video-card{
+    width: 200px;
+    background: #fefefe;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.video-card img{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+

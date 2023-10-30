@@ -1,0 +1,1 @@
+export const base = "https://vdo-server-fwmq.onrender.com";
